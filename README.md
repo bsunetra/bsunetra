@@ -4,6 +4,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bsunetra/bsunetra/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
+
 ## Hi there 👋
 
 <!--
