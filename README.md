@@ -120,6 +120,21 @@
 **Tech:** Hadoop • MapReduce • Hive • Pig • MongoDB • Cassandra
 
 🔗 [View Project](https://github.com/bsunetra/Hadoop-Ecosystem-Lab)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bsunetra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsunetra&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bsunetra&theme=tokyonight&hide_border=true" />
+
+</div>
 <!--
 **bsunetra/bsunetra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
