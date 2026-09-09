@@ -48,7 +48,24 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,azure,linux,power bi" />
 </p>
+## 🔭 Currently Exploring
 
+🤖 **Generative AI** — LLMs, AI Agents & intelligent applications  
+🧠 **Machine Learning** — Practical ML & predictive systems  
+📊 **Big Data** — Hadoop, MapReduce & Data Engineering  
+👁️ **Computer Vision** — Image analysis & intelligent monitoring  
+⚙️ **Automation** — Building smarter workflows with AI
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build production-ready AI applications
+- 🧠 Strengthen Machine Learning & Generative AI skills
+- 📊 Work on real-world Big Data projects
+- 🌐 Build scalable full-stack applications
+- 💼 Contribute to impactful open-source projects
+- 
 ## 🚀 Featured Projects
 
 ### 📊 Product Sentiment Analyzer
