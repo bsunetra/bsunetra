@@ -65,7 +65,7 @@
 - 📊 Work on real-world Big Data projects
 - 🌐 Build scalable full-stack applications
 - 💼 Contribute to impactful open-source projects
-- 
+  
 ## 🚀 Featured Projects
 
 ### 📊 Product Sentiment Analyzer
