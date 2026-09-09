@@ -48,6 +48,41 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,azure,linux,power bi" />
 </p>
+
+## 🚀 Featured Projects
+
+### 🧠 CognitAI
+> AI-powered solutions focused on building practical intelligent applications.
+
+**Tech:** Generative AI • AI/ML • Full Stack
+
+---
+
+### 🏥 MediLensAI
+> Multi-agent AI system designed to provide intelligent analysis of healthcare information.
+
+**Tech:** AI Agents • Generative AI • APIs • Full Stack
+
+---
+
+### 👁️ ShieldEye
+> AI-powered CCTV monitoring system designed to detect and analyze incidents in real time.
+
+**Tech:** Computer Vision • AI/ML • Python • Flask
+
+---
+
+### 📊 ExamIQ
+> AI-powered examination and assessment platform designed to make evaluation smarter and more efficient.
+
+**Tech:** AI • Full Stack • APIs
+
+---
+
+### 🐘 Hadoop Ecosystem Lab
+> Hands-on implementation of Hadoop ecosystem technologies including HDFS, MapReduce, Hive, Pig, MongoDB and Cassandra.
+
+**Tech:** Hadoop • MapReduce • Hive • Pig • MongoDB • Cassandra
 <!--
 **bsunetra/bsunetra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
