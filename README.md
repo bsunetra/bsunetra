@@ -65,6 +65,15 @@
 - 📊 Work on real-world Big Data projects
 - 🌐 Build scalable full-stack applications
 - 💼 Contribute to impactful open-source projects
+
+## 🏆 Experience & Achievements
+
+- 💻 **AI & Data Science Projects** — Built practical applications across AI, NLP, Big Data and Full Stack Development.
+- 🤖 **Generative AI** — Exploring AI Agents, LLM-powered applications and intelligent automation.
+- 🛰️ **Remote Sensing & GIS** — Worked on satellite imagery analysis and NDVI-based change detection.
+- 🚁 **Aviation Technology** — Exposure to drone technology, RPTO training and aviation-related technical projects.
+- 🏅 **Hackathons & Innovation** — Participated in technical hackathons and collaborative problem-solving challenges.
+- 👩‍💻 **Technical Mentorship** — Actively involved in mentorship, technical learning and project-based development.
   
 ## 🚀 Featured Projects
 
