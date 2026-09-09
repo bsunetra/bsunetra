@@ -10,8 +10,44 @@
 
 </div>
 
-## Hi there 👋
+## 👩‍💻 About Me
 
+🎓 **AI & Data Science Student** passionate about building intelligent and practical solutions.
+
+🤖 Interested in **Artificial Intelligence, Machine Learning, Big Data & Full Stack Development**.
+
+🚀 I enjoy turning ideas into **AI-powered applications, data-driven systems and real-world projects**.
+
+💡 Currently exploring **Generative AI, Computer Vision, Data Engineering and intelligent automation**.
+
+🌱 Always learning. Always building. Always experimenting.
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+### 🤖 AI / Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### 🌐 Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flask" />
+</p>
+
+### 🗄️ Databases & Big Data
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,hadoop,postgresql" />
+</p>
+
+### ☁️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,azure,linux,power bi" />
+</p>
 <!--
 **bsunetra/bsunetra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
