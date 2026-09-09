@@ -151,11 +151,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bsunetra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bsunetra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsunetra&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsunetra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 
 </div>
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=bsunetra&theme=tokyonight&hide_border=true" />
