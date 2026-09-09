@@ -51,38 +51,75 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 CognitAI
-> AI-powered solutions focused on building practical intelligent applications.
+### 📊 Product Sentiment Analyzer
+> AI-powered product review analysis system for collecting and analyzing customer sentiment from e-commerce reviews.
 
-**Tech:** Generative AI • AI/ML • Full Stack
+**Tech:** Python • NLP • Flask • Selenium • MongoDB
 
----
-
-### 🏥 MediLensAI
-> Multi-agent AI system designed to provide intelligent analysis of healthcare information.
-
-**Tech:** AI Agents • Generative AI • APIs • Full Stack
+🔗 [View Project](https://github.com/bsunetra/product-sentiment-backend)
 
 ---
 
-### 👁️ ShieldEye
-> AI-powered CCTV monitoring system designed to detect and analyze incidents in real time.
+### 🌦️ ClimaBeats
+> A web application combining weather information with an engaging user experience.
 
-**Tech:** Computer Vision • AI/ML • Python • Flask
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Project](https://github.com/bsunetra/WTMA---ClimaBeats)
 
 ---
 
-### 📊 ExamIQ
-> AI-powered examination and assessment platform designed to make evaluation smarter and more efficient.
+### 🌐 Sunetra Exim Website
+> A responsive business website developed to present company information and services through a clean web interface.
 
-**Tech:** AI • Full Stack • APIs
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Project](https://github.com/bsunetra/Sunetra-Exim-website)
+
+---
+
+### 🤖 Build-a-Bot
+> A hands-on project focused on building and experimenting with conversational bot functionality.
+
+**Tech:** Python
+
+🔗 [View Project](https://github.com/bsunetra/build_a_bot)
+
+---
+
+### 📸 Capture and Code
+> A project combining visual interaction with programming concepts through an interactive application.
+
+**Tech:** Programming • Application Development
+
+🔗 [View Project](https://github.com/bsunetra/capture-and-code)
+
+---
+
+### 💻 Operating System
+> Implementation and exploration of operating-system concepts through programming and system-level experiments.
+
+**Tech:** C • Operating Systems
+
+🔗 [View Project](https://github.com/bsunetra/Operating_System)
+
+---
+
+### 🧩 Software Construction
+> Practical software engineering work focused on designing and developing structured software solutions.
+
+**Tech:** Software Engineering • Programming
+
+🔗 [View Project](https://github.com/bsunetra/Software-Construction)
 
 ---
 
 ### 🐘 Hadoop Ecosystem Lab
-> Hands-on implementation of Hadoop ecosystem technologies including HDFS, MapReduce, Hive, Pig, MongoDB and Cassandra.
+> Hands-on exploration of Big Data technologies including HDFS, MapReduce, Hive, Pig, MongoDB and Cassandra.
 
 **Tech:** Hadoop • MapReduce • Hive • Pig • MongoDB • Cassandra
+
+🔗 [View Project](https://github.com/bsunetra/Hadoop-Ecosystem-Lab)
 <!--
 **bsunetra/bsunetra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
