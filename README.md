@@ -161,6 +161,36 @@
 <img src="https://streak-stats.demolab.com?user=bsunetra&theme=tokyonight&hide_border=true" />
 
 </div>
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/bsunetra">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bsunetra">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hello.cognitai@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Always learning. Always building. Always experimenting."
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
+
 <!--
 **bsunetra/bsunetra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
